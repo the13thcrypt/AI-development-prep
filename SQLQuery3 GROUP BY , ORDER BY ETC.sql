@@ -31,3 +31,6 @@ ORDER BY age , gender DESC
 SELECT * 
 FROM employeedemo
 ORDER BY 4 DESC,5 DESC -- doing this by collumn number the we count from 1,2,3,4,5 etc
+SELECT * 
+FROM employeedemo
+ORDER BY 1,2 
